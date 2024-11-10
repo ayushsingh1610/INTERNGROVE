@@ -1,8 +1,0 @@
-// Develop a simple library management system using Java with classes for books and borrowers.
-import java.util.*;
-public class program01 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
-    }
-}
